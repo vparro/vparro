@@ -15,9 +15,14 @@ Trabalho com sistemas embarcados para missões espaciais (PLATO, EnVision, VERIT
 - [MLprobabilistico](https://github.com/vparro/MLprobabilistico): aprendizado de máquina probabilístico
 - [MMM](https://github.com/vparro/MMM): música e modelagem matemática
 
-**Disciplinas** (exemplos feitos em aula, por semestre): em breve
+**Disciplinas** (exemplos feitos em aula, por semestre)
+- [aula-ECM303](https://github.com/vparro/aula-ECM303): Sistemas de Controle
+- [aula-ECM307](https://github.com/vparro/aula-ECM307): Sinais e Sistemas
+- [aula-ETE204](https://github.com/vparro/aula-ETE204)
 
-**Projetos de pesquisa**: em breve
+**Projetos de pesquisa**
+- [acidentes](https://github.com/vparro/acidentes): acidentes em rodovias, hora do dia e sono
+- Oncologia, cardiologia, sensoriamento remoto, EnVision, PLATO, CoRoT, VERITAS e PSL-Census: repositórios privados, abertos à medida que os artigos são publicados
 
 ## Contato
 [ORCID](https://orcid.org/0000-0002-8232-0125) · [LinkedIn](https://linkedin.com/in/vparro) · Instituto Mauá de Tecnologia, São Caetano do Sul
